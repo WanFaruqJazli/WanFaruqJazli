@@ -51,7 +51,8 @@
 - Software & Tools : Canva, Microsoft Word, Google Docs
 
 ## Github Activity Graph
-[![Faruqi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WanFaruqJazli)](https://github.com/WanFaruqJazli/github-readme-activity-graph)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=WanFaruqJazli&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ## Connect With Me
 - 🔗 GitHub: [Faruqi](https://github.com/WanFaruqJazli)
