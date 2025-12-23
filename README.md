@@ -50,8 +50,9 @@
 - Tools & IDEs: Dev-C++, Visual Studio Code, DEEDS
 - Software & Tools : Canva, Microsoft Word, Google Docs
 
-## Github Activity Graph
-[![Trophies](https://github-profile-trophy.vercel.app/?username=WanFaruqJazli&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+## Github Activity Graph!
+[Snake animation](https://github.com/WanFaruqJazli/WanFaruqJazli/raw/output/github-contribution-grid-snake-dark.svg)
+
 
 
 ## Connect With Me
