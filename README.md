@@ -40,8 +40,8 @@
 - **Committee Member (Equipment Bureau):** College Election (2024)
 
 ### SMK Chukai
-- **President:** Design & Technology Club (2024)
-- **Treasurer:** Design & Technology Club (2023)
+- **President:** Reka Bentuk & Teknologi (2024)
+- **Treasurer:** Reka Bentuk & Teknologi (2023)
 
 ## 🏆 Participation & Awards
 - **Crew:** SUSKOM'25 @ UTM
