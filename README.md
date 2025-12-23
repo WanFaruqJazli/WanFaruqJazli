@@ -1,22 +1,20 @@
 <div align="center">
 
-  # Hi there, I'm Faruq! 👋
+  <h1>Hi there, I'm Faruq! 👋</h1>
 
-  <p>
-    <b>Aspiring Data Engineer | Computer Science Student @ UTM</b>
-  </p>
-  
-  <p>
-   I am a first-year student passionate about software development and data engineering. <br>
-   Currently building my foundation in C++, Java, and Computer Science principles.
-  </p>
+  <h3>Aspiring Data Engineer | Computer Science Student @ UTM</h3>
 
-  <a href="https://www.linkedin.com/in/wan-faruq-jazli-9a863b387/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:wanfaruqjazli30@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <p>
+    I am a first-year student passionate about software development and data engineering. <br>
+    Currently building my foundation in C++, Java, and Computer Science principles.
+  </p>
+
+  <a href="https://www.linkedin.com/in/wan-faruq-jazli-9a863b387/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:wanfaruqjazli30@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
 </div>
 
@@ -57,18 +55,4 @@ Check out my assignments and projects for my university subjects:
 | **SECR1013** | Digital Logic | [View Repo](https://github.com/WanFaruqJazli/Year1-Sem1-Coursework/tree/main/SECR1013-Digital-Logic) |
 | **SECP1513** | Technology & Info Systems | [View Repo](https://github.com/WanFaruqJazli/Year1-Sem1-Coursework/tree/main/SECP1513-TIS) |
 | **SECJ1013** | Programming Technique 1 | [View Repo](https://github.com/WanFaruqJazli/Year1-Sem1-Coursework/tree/main/SECJ1013-Programming-1) |
-| **SECI1013** | Discrete Structure | [View Repo](https://github.com/WanFaruqJazli/Year1-Sem1-Coursework/tree/main/SECI1013-Discrete-Structure) |
-
-## 🛠️ Skills & Tools
-- **Programming Languages:** C++, Java
-- **Software & Tools:** Visual Studio Code, Canva, Microsoft Word
-- **Spoken Languages:** Bahasa Melayu (Native), English (Professional Working Proficiency)
-
-<br/>
-
-<div align="center">
-
-## 📈 GitHub Activity
-[![Faruqi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WanFaruqJazli&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+| **SECI1013** | Discrete Structure | [View Repo](
