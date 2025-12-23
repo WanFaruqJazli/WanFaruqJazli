@@ -1,62 +1,79 @@
-## Hello, I am Faruq !
-- First year student of Computer Science (Data Engineering) at UTM
-- Currently learning C++, Java, and fundamental of Computer Science 
-- Spoken language: Bahasa Melayu and English
+<div align="center">
 
-## Education
-  - SMK Chukai  (2019 - 2024)
-    - SPM: 7A
+  # Hi there, I'm Faruq! 👋
+
+  <p>
+    <b>Aspiring Data Engineer | Computer Science Student @ UTM</b>
+  </p>
   
-  - Kolej Matrikulasi Johor (2024 - 2025)
-    - Course: Physical Science
-    - CGPA: 3.92
-    - MUET: 4.00
-  
-  - Universiti Teknologi Malaysia (2025 - Present)
-    - Course: Bachelor of Computer Science (Data Engineering) with Honors
+  <p>
+   I am a first-year student passionate about software development and data engineering. <br>
+   Currently building my foundation in C++, Java, and Computer Science principles.
+  </p>
 
-## Position
-  - SMK Chukai
-    - Kelab Reka Bentuk & Teknologi : Treasurer (2023)
-    - Kelab Reka Bentuk & Teknologi : Club Precident (2024)
+  <a href="https://www.linkedin.com/in/wan-faruq-jazli-9a863b387/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:wanfaruqjazli30@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-  - Kolej Matrikulasi Johor
-    - Pilihan Raya Kolej: AJK BIRO Alatan (2024)
-   
-  - Universiti Teknologi Malaysia
-    - SUSKOM'25: AJK Aktivity (2025)
-    - UTMGames : Athlete for MLBB
-## Participation and Awards
-  - SMK Chukai
-    - National Level
-        - Malaysian National Chemistry Quiz: Participation (2023)
-  
-  - Universiti Teknologi Malaysia
-    - SUSKOM'25 : Crew
-    - UTMGames : Athlete
-    - Quantum Submit 2025 : Audience
+</div>
 
-## Courses
-[SECI1013-Discrete Structure](https://github.com/WanFaruqJazli/Discrete-Stucture)
+<br />
 
-[SECP1513-Technology & Information System](https://github.com/WanFaruqJazli/Technology-Information-System)
+## 🎓 Education
 
-[SECJ1013-Programming Technique 1](https://github.com/WanFaruqJazli/Programming-Technique-1)
+| Year | Institution | Achievement / Details |
+| :--- | :--- | :--- |
+| **2025 - Present** | **Universiti Teknologi Malaysia (UTM)** | Bachelor of Computer Science (Data Engineering) with Honors |
+| **2024 - 2025** | **Kolej Matrikulasi Johor (KMJ)** | Physical Science<br>• CGPA: 3.92 <br>• MUET: Band 4.0 |
+| **2019 - 2024** | **SMK Chukai** | SPM: 7A |
 
-[SECR1013-Digital Logic](https://github.com/WanFaruqJazli/Digital-Logic)
+## 🚀 Leadership & Experience
 
-## Skills
-- Programming: Java, C++
-- Tools & IDEs: Dev-C++, Visual Studio Code, DEEDS
-- Software & Tools : Canva, Microsoft Word, Google Docs
+### Universiti Teknologi Malaysia
+- **Committee Member (Activity):** SUSKOM'25 (2025)
+- **E-Sports Athlete:** UTMGames (Mobile Legends: Bang Bang)
 
-## Github Activity Graph!
+### Kolej Matrikulasi Johor
+- **Committee Member (Equipment Bureau):** College Election (2024)
+
+### SMK Chukai
+- **President:** Design & Technology Club (2024)
+- **Treasurer:** Design & Technology Club (2023)
+
+## 🏆 Participation & Awards
+- **Crew:** SUSKOM'25 @ UTM
+- **Athlete:** UTMGames @ UTM
+- **Audience:** ASEAN Quantum Summit 2025 @ UTM
+- **Participant:** Malaysian National Chemistry Quiz (National Level, 2023)
+
+## 📚 Coursework Repositories
+Check out my assignments and projects for my university subjects:
+
+| Code | Subject | Repository Link |
+| :--- | :--- | :--- |
+| **SECR1013** | Digital Logic | [View Repo](https://github.com/WanFaruqJazli/Digital-Logic) |
+| **SECP1513** | Technology & Info Systems | [View Repo](https://github.com/WanFaruqJazli/Technology-Information-System) |
+| **SECJ1013** | Programming Technique 1 | [View Repo](https://github.com/WanFaruqJazli/Programming-Technique-1) |
+| **SECI1013** | Discrete Structure | [View Repo](https://github.com/WanFaruqJazli/Discrete-Stucture) |
+
+## 🛠️ Skills & Tools
+
+**Languages** ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Software & Tools** ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+
+**Spoken Languages**
+- Bahasa Melayu (Native)
+- English (Professional Working Proficiency)
+
+<br/>
+
+<div align="center">
+
+## 📈 GitHub Activity
 [![Faruqi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WanFaruqJazli&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-
-
-## Connect With Me
-- 🔗 GitHub: [Faruqi](https://github.com/WanFaruqJazli)
-- 📧 Email: wanfaruqjazli30@gmail.com
-- 💼 LinkedIn: [Wan Faruq Jazli](https://www.linkedin.com/in/wan-faruq-jazli-9a863b387/)
+</div>
