@@ -54,10 +54,10 @@ Check out my assignments and projects for my university subjects:
 
 | Code | Subject | Repository Link |
 | :--- | :--- | :--- |
-| **SECR1013** | Digital Logic | [View Repo](https://github.com/WanFaruqJazli/Digital-Logic) |
-| **SECP1513** | Technology & Info Systems | [View Repo](https://github.com/WanFaruqJazli/Technology-Information-System) |
-| **SECJ1013** | Programming Technique 1 | [View Repo](https://github.com/WanFaruqJazli/Programming-Technique-1) |
-| **SECI1013** | Discrete Structure | [View Repo](https://github.com/WanFaruqJazli/Discrete-Stucture) |
+| **SECR1013** | Digital Logic | [View Repo](https://github.com/WanFaruqJazli/Year1-Sem1-Coursework/tree/main/SECR1013-Digital-Logic) |
+| **SECP1513** | Technology & Info Systems | [View Repo]([https://github.com/WanFaruqJazli/Technology-Information-System](https://github.com/WanFaruqJazli/Year1-Sem1-Coursework/tree/main/SECP1513-TIS)) |
+| **SECJ1013** | Programming Technique 1 | [View Repo]([https://github.com/WanFaruqJazli/Programming-Technique-1](https://github.com/WanFaruqJazli/Year1-Sem1-Coursework/tree/main/SECJ1013-Programming-1)) |
+| **SECI1013** | Discrete Structure | [View Repo]([https://github.com/WanFaruqJazli/Discrete-Stucture](https://github.com/WanFaruqJazli/Year1-Sem1-Coursework/tree/main/SECI1013-Discrete-Structure)) |
 
 ## 🛠️ Skills & Tools
 - **Programming Languages:** C++, Java
