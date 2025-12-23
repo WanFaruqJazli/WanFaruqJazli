@@ -1,22 +1,22 @@
 <div align="center">
 
-  # Hi there, I'm Faruq! 👋
+  # Hi there, I'm Faruq! 👋
 
-  <p>
-    <b>Aspiring Data Engineer | Computer Science Student @ UTM</b>
-  </p>
-  
-  <p>
-   I am a first-year student passionate about software development and data engineering. <br>
-   Currently building my foundation in C++, Java, and Computer Science principles.
-  </p>
+  <p>
+    <b>Aspiring Data Engineer | Computer Science Student @ UTM</b>
+  </p>
+  
+  <p>
+   I am a first-year student passionate about software development and data engineering. <br>
+   Currently building my foundation in C++, Java, and Computer Science principles.
+  </p>
 
-  <a href="https://www.linkedin.com/in/wan-faruq-jazli-9a863b387/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:wanfaruqjazli30@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/wan-faruq-jazli-9a863b387/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:wanfaruqjazli30@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
 </div>
 
@@ -55,9 +55,9 @@ Check out my assignments and projects for my university subjects:
 | Code | Subject | Repository Link |
 | :--- | :--- | :--- |
 | **SECR1013** | Digital Logic | [View Repo](https://github.com/WanFaruqJazli/Year1-Sem1-Coursework/tree/main/SECR1013-Digital-Logic) |
-| **SECP1513** | Technology & Info Systems | [View Repo]([https://github.com/WanFaruqJazli/Technology-Information-System](https://github.com/WanFaruqJazli/Year1-Sem1-Coursework/tree/main/SECP1513-TIS)) |
-| **SECJ1013** | Programming Technique 1 | [View Repo]([https://github.com/WanFaruqJazli/Programming-Technique-1](https://github.com/WanFaruqJazli/Year1-Sem1-Coursework/tree/main/SECJ1013-Programming-1)) |
-| **SECI1013** | Discrete Structure | [View Repo]([https://github.com/WanFaruqJazli/Discrete-Stucture](https://github.com/WanFaruqJazli/Year1-Sem1-Coursework/tree/main/SECI1013-Discrete-Structure)) |
+| **SECP1513** | Technology & Info Systems | [View Repo](https://github.com/WanFaruqJazli/Year1-Sem1-Coursework/tree/main/SECP1513-TIS) |
+| **SECJ1013** | Programming Technique 1 | [View Repo](https://github.com/WanFaruqJazli/Year1-Sem1-Coursework/tree/main/SECJ1013-Programming-1) |
+| **SECI1013** | Discrete Structure | [View Repo](https://github.com/WanFaruqJazli/Year1-Sem1-Coursework/tree/main/SECI1013-Discrete-Structure) |
 
 ## 🛠️ Skills & Tools
 - **Programming Languages:** C++, Java
