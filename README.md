@@ -55,4 +55,4 @@ Check out my assignments and projects for my university subjects:
 | **SECR1013** | Digital Logic | [View Repo](https://github.com/WanFaruqJazli/Year1-Sem1-Coursework/tree/main/SECR1013-Digital-Logic) |
 | **SECP1513** | Technology & Info Systems | [View Repo](https://github.com/WanFaruqJazli/Year1-Sem1-Coursework/tree/main/SECP1513-TIS) |
 | **SECJ1013** | Programming Technique 1 | [View Repo](https://github.com/WanFaruqJazli/Year1-Sem1-Coursework/tree/main/SECJ1013-Programming-1) |
-| **SECI1013** | Discrete Structure | [View Repo](
+| **SECI1013** | Discrete Structure | [View Repo](https://github.com/WanFaruqJazli/Year1-Sem1-Coursework/tree/main/SECI1013-Discrete-Structure) |
