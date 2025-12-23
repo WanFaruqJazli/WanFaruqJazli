@@ -1,7 +1,7 @@
 ## Hello, I am Faruq !
 - First year student of Computer Science (Data Engineering) at UTM
 - Currently learning C++, Java, and fundamental of Computer Science 
-- Spoken language: Malay and English
+- Spoken language: Bahasa Melayu and English
 
 ## Education
   - SMK Chukai  (2019 - 2024)
