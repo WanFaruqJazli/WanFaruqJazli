@@ -51,7 +51,8 @@
 - Software & Tools : Canva, Microsoft Word, Google Docs
 
 ## Github Activity Graph!
-[Snake animation](https://github.com/WanFaruqJazli/WanFaruqJazli/raw/output/github-contribution-grid-snake-dark.svg)
+[![Faruqi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WanFaruqJazli&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 
