@@ -56,3 +56,29 @@ Check out my assignments and projects for my university subjects:
 | **SECP1513** | Technology & Info Systems | [View Repo](https://github.com/WanFaruqJazli/Year1-Sem1-Coursework/tree/main/SECP1513-TIS) |
 | **SECJ1013** | Programming Technique 1 | [View Repo](https://github.com/WanFaruqJazli/Year1-Sem1-Coursework/tree/main/SECJ1013-Programming-1) |
 | **SECI1013** | Discrete Structure | [View Repo](https://github.com/WanFaruqJazli/Year1-Sem1-Coursework/tree/main/SECI1013-Discrete-Structure) |
+
+## 🛠️ Skills & Tools
+
+- **Programming Languages:** C++, Java
+
+- **Software & Tools:** Visual Studio Code, Canva, Microsoft Word
+
+- **Spoken Languages:** Bahasa Melayu (Native), English (Professional Working Proficiency)
+
+
+
+<br/>
+
+
+
+<div align="center">
+
+
+
+## 📈 GitHub Activity
+
+[![Faruqi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WanFaruqJazli&bg_color=1a1b27&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+</div>
