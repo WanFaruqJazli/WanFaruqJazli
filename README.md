@@ -77,6 +77,15 @@ Check out my assignments and projects for my university subjects:
 
 ---
 
+<br>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2pheGVmN2J3cGNucG93cDJhaHp4aHB4NGx4b3pqNmpjeDd2cXV5dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7vdlbr6lcVAmGK7lhB/giphy.gif" alt="Cute Tech Gif 1" height="220" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2pheGVmN2J3cGNucG93cDJhaHp4aHB4NGx4b3pqNmpjeDd2cXV5dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/B2ltNQXGA1wj0au0Uk/giphy.gif" alt="Cute Tech Gif 2" height="220" style="margin: 0 10px;" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NTVlMWNvb3c1MGxmbWl4ZGpwb2dyOHVyaHNvNndidmk2NDVsYXpucCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/CuuSHzuc0O166MRfjt/giphy.gif" alt="Cute Tech Gif 3" height="220" style="margin: 0 10px;" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NTVlMWNvb3c1MGxmbWl4ZGpwb2dyOHVyaHNvNndidmk2NDVsYXpucCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/usXZmmgP9Z7kf39fnq/giphy.gif" alt="Cute Tech Gif 4" height="220" />
+</p>
+<br>
+
 ## 📊 GitHub Activity Graph
 
 <div align="center">
