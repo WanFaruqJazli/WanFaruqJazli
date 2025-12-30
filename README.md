@@ -40,10 +40,13 @@
 
 ### Kolej Matrikulasi Johor
 - **Committee Member (Equipment Bureau):** College Election (2024)
+- **Crew Member :** Sukan Rakyat (2024)
+- **Crew Member :** Mutiara Kasih Bersama Staf KMJ (2024)
 
 ### SMK Chukai
 - **President:** Reka Bentuk & Teknologi (2024)
 - **Treasurer:** Reka Bentuk & Teknologi (2023)
+- **Platoon Leader:** TaeKwonDo (2024)
 
 ---
 
@@ -53,6 +56,12 @@
 - **Athlete:** UTMGames @ UTM
 - **Audience:** ASEAN Quantum Summit 2025 @ UTM
 - **Participant:** Malaysian National Chemistry Quiz (National Level, 2023)
+- **3rd Place:** Dodgeball Tournament @ KMJ
+- **Participant:** Mathematics Olympiad 2024 @ KMJ
+- **Participant:** "Jom Bersihkan kubur" @ KMJ
+- **Participant:** E-Sport Mobile Legends @ KMJ
+- **Participant:** Explorace @ KMJ
+- **Participant:** Larian KAKOM Madani @ KMJ
 
 ---
 
