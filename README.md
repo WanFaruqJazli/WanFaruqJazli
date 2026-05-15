@@ -73,16 +73,45 @@
 
 ---
 
-## 📚 Coursework Repositories
-Check out my assignments and projects for my university subjects:
+## 📚 Academic Journey & Coursework
 
-| Code | Subject | Repository Link |
-| :--- | :--- | :--- |
-| **SECR1013** | Digital Logic | [View Repo](https://github.com/WanFaruqJazli/Year1-Sem1-Coursework/tree/main/SECR1013-Digital-Logic) |
-| **SECP1513** | Technology & Info Systems | [View Repo](https://github.com/WanFaruqJazli/Year1-Sem1-Coursework/tree/main/SECP1513-TIS) |
-| **SECJ1013** | Programming Technique 1 | [View Repo](https://github.com/WanFaruqJazli/Year1-Sem1-Coursework/tree/main/SECJ1013-Programming-1) |
-| **SECI1013** | Discrete Structure | [View Repo](https://github.com/WanFaruqJazli/Year1-Sem1-Coursework/tree/main/SECI1013-Discrete-Structure) |
-| **ULRS1032** | Integrity and Anti-Corruption | [View Repo](https://github.com/WanFaruqJazli/Year1-Sem1-Coursework/tree/main/ULRS1032-Integrity%20and%20Anti-Corruption) |
+Here is the roadmap of my studies at UTM along with repositories for my assignments and projects:
+
+### 🗓️ Year 1
+* **Semester 1** ➔ [View Full Coursework Repo](https://github.com/WanFaruqJazli/Year1-Sem1-Coursework)
+  * 📊 **GPA:** `3.97` 
+  <details>
+  <summary>🔍 View Semester 1 Subject Breakdown</summary>
+
+  | Code | Subject | Repository Link |
+  | :--- | :--- | :--- |
+  | **SECR1013** | Digital Logic | [View Repo](https://github.com/WanFaruqJazli/Year1-Sem1-Coursework/tree/main/SECR1013-Digital-Logic) |
+  | **SECP1513** | Technology & Info Systems | [View Repo](https://github.com/WanFaruqJazli/Year1-Sem1-Coursework/tree/main/SECP1513-TIS) |
+  | **SECJ1013** | Programming Technique 1 | [View Repo](https://github.com/WanFaruqJazli/Year1-Sem1-Coursework/tree/main/SECJ1013-Programming-1) |
+  | **SECI1013** | Discrete Structure | [View Repo](https://github.com/WanFaruqJazli/Year1-Sem1-Coursework/tree/main/SECI1013-Discrete-Structure) |
+  | **ULRS1032** | Integrity and Anti-Corruption | [View Repo](https://github.com/WanFaruqJazli/Year1-Sem1-Coursework/tree/main/ULRS1032-Integrity%20and%20Anti-Corruption) |
+  </details>
+
+* **Semester 2** ➔ ⏳ *In Progress (Link coming soon)*
+  * 📊 **GPA:** `Pending`
+
+### 🗓️ Year 2
+* **Semester 3** ➔ 🔒 *🔒 Upcoming*
+  * 📊 **GPA:** `—`
+* **Semester 4** ➔ 🔒 *🔒 Upcoming*
+  * 📊 **GPA:** `—`
+
+### 🗓️ Year 3
+* **Semester 5** ➔ 🔒 *🔒 Upcoming*
+  * 📊 **GPA:** `—`
+* **Semester 6** ➔ 🔒 *🔒 Upcoming*
+  * 📊 **GPA:** `—`
+
+### 🗓️ Year 4
+* **Semester 7** ➔ 🔒 *🔒 Upcoming*
+  * 📊 **GPA:** `—`
+* **Semester 8** ➔ 🔒 *🔒 Upcoming*
+  * 📊 **GPA:** `—`
 
 ---
 ## 📊 GitHub Activity Graph
